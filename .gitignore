@@ -1,0 +1,18 @@
+# macOS cruft
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments (if you ever add one)
+venv/
+.env/
+.venv/
+env/
+
+# VS Code settings (if you use it)
+.vscode/
