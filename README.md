@@ -2,7 +2,7 @@
 ## Analysis of the Pew Global Attitudes Survey (2024)
 ### Overview
 
-This repository contains code for a statistical analysis examining whether cross-national perceptions of China are associated with domestic attitudes toward censorship and freedom of expression. Using data from the Pew Research Center’s Spring Global Attitudes Survey (2024), the analysis investigates how support for internet freedom, press freedom, and free speech correlates with favourability toward China across 35 countries.
+This repository contains code for a statistical analysis examining the relationship between cross-national perceptions of China and domestic attitudes towards censorship. Using data from the Pew Research Center’s Spring Global Attitudes Survey (2024), the analysis investigates how support for internet freedom, press freedom, and free speech correlates with favourability toward China across 35 countries.
 
 The study is motivated by scholarship in social psychology, political science, and critical social theory suggesting that perceptions of foreign states may reflect domestic value orientations and processes of in-group / out-group formation, rather than purely objective evaluations of governance practices.
 
