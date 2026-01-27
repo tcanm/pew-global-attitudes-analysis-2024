@@ -14,13 +14,13 @@ Do cross-national perceptions of China correlate with attitudes toward freedom f
 
 The analysis is based on a total sample of **n = 41,503 respondents** 
 
-Country-level statistics are calculated using Pew-provided survey weights to ensure cross-national comparability.
+- Country-level statistics are calculated using Pew-provided survey weights to ensure cross-national comparability
 
-Favourability toward China is measured on a four-point ordinal scale.
+- Favourability toward China is measured on a four-point ordinal scale
 
-Attitudes toward freedom from censorship are operationalised using Pew’s grouped variables on internet freedom, press freedom, and free speech.
+- Attitudes toward freedom from censorship are operationalised using Pew’s grouped variables on internet freedom, press freedom, and free speech
 
-Raw survey data is provided in the ``data/`` directory. The dataset is used in unmodified form. An accompanying codebook can be found in the ``docs/`` folder. 
+- Raw survey data is provided in the ``data/`` directory. The dataset is used in unmodified form. An accompanying codebook can be found in the ``docs/`` folder 
 
 ### Methods
 
